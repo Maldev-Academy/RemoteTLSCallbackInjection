@@ -34,7 +34,7 @@ The `g_FixedShellcode` shellcode will then make sure that the main payload execu
 
 The following image shows our implementation, `RemoteTLSCallbackInjection.exe`, spawning a `cmd.exe` as its main payload.
 
-<img width="1200px" alt="demo" src="https://github.com/Maldev-Academy/RemoteTLSCallbackInjection/assets/111295429/4b2f9c16-519d-4fd1-866b-b207d2fd3d84">
+<img width="1200px" alt="demo" src="https://github.com/Maldev-Academy/RemoteTLSCallbackInjection/assets/111295429/1b1b2c9c-17af-490c-8d77-ea11f53ccfaf">
 
 
 
